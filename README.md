@@ -1,34 +1,34 @@
-***OSS Audit Project — Sargam Ghagre (Reg. No: 24MIP10155)***
+# OSS Audit Project — Sargam Ghagre (Reg. No: 24MIP10155)
 
 Welcome to the **Open Source Software (OSS) Audit Project**.  
-This project demonstrates a series of **Bash scripts** that inspect, analyze, and report on system software, packages, permissions, logs, and generate an interactive manifesto.  
+This project demonstrates a series of Bash scripts that inspect, analyze, and report on system software, packages, permissions, logs, and generate an interactive manifesto.
 
 All scripts are fully executable from the terminal in a Linux environment. No GUI setup is required.
 
 ---
 
-***🟢 Project Overview***
+## 🟢 Project Overview
 
-This repository contains **5 Bash scripts**:
+This repository contains 5 Bash scripts:
 
-***1. `script1.sh` — System Identity Report***  
+### 1. script1.sh — System Identity Report
 Collects and displays system information including OS, kernel, uptime, user info, and licenses of chosen software.
 
-***2. `script2.sh` — FOSS Package Inspector***  
+### 2. script2.sh — FOSS Package Inspector
 Checks if a chosen FOSS package (Python3) is installed, shows its version, license, binary location, and prints a philosophy note.
 
-***3. `script3.sh` — Disk and Permission Auditor***  
+### 3. script3.sh — Disk and Permission Auditor
 Loops through key system directories, reports permissions, ownership, disk usage, and audits Python installation directories.
 
-***4. `script4.sh` — Log File Analyzer***  
-Reads a log file, searches for a keyword (default: `python`), counts occurrences, shows first 10 matches and last 5 matches, and prints a summary.
+### 4. script4.sh — Log File Analyzer
+Reads a log file, searches for a keyword (default: python), counts occurrences, shows first 10 matches and last 5 matches, and prints a summary.
 
-***5. `script5.sh` — Open Source Manifesto Generator***  
+### 5. script5.sh — Open Source Manifesto Generator
 Interactively asks 3 questions and generates a personalized OSS manifesto saved to a `.txt` file.
 
 ---
 
-***🟢 Prerequisites***
+## 🟢 Prerequisites
 
 - Linux environment (Ubuntu recommended)  
 - Bash shell (default on Linux)  
