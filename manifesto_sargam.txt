@@ -1,0 +1,22 @@
+============================================================
+  MY OPEN SOURCE MANIFESTO
+  Generated on: 30 March 2026
+  By: Sargam Ghagre | Reg No: 24MIP10155
+============================================================
+
+  Every day, I rely on Python — a piece of software that
+  someone built, tested, and shared with the world at no
+  cost and with no restrictions.
+
+  To me, freedom means Independent. It means I can read,
+  understand, and modify the tools I use.
+
+  I commit that when I build AI Project, I will share it.
+  The best way to respect open source is to contribute back.
+
+  Open source is not just code — it is collaboration,
+  learning, and collective progress.
+
+============================================================
+  Chosen Software: Python (PSF License)
+============================================================
