@@ -46,7 +46,7 @@ Clone the repository or copy all scripts to a folder:
 git clone https://github.com/Sargam-Ghagre/oss-audit-24MIP10155.git
 cd oss-audit-24MIP10155
 
-oss-audit-24MIP10158/
+oss-audit-24MIP10155/
 │
 ├── script1.sh       # System Identity Report
 ├── script2.sh       # FOSS Package Inspector
@@ -77,7 +77,6 @@ Step 4: Log File Analyzer
 ./script4.sh
 
 
-
 By default, searches /var/log/dpkg.log for keyword python.
 You can specify a log file and keyword:
 
@@ -87,7 +86,7 @@ You can specify a log file and keyword:
 Step 5: Open Source Manifesto Generator
 ./script5.sh
 
-Interactive script; it will prompt for 3 answers and generate manifesto_kriti.txt
+Interactive script; it will prompt for 3 answers and generate manifesto_sargam.txt
 
 🟢 Project Execution Flow
 Run script1.sh to see system identity and software license info.
@@ -113,7 +112,7 @@ Scripts are self-contained, no external libraries required.
 Default paths and keywords are included for convenience (/var/log/dpkg.log and python).
 Proper permissions may require sudo when accessing system directories.   
  
-Author
+Author - 
 
 Sargam Ghagre 
 Registration No: 24MIP10155
